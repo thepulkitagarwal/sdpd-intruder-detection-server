@@ -1,0 +1,24 @@
+{
+  "name": "sdpd-intruder-detection-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepulkitagarwal/sdpd-intruder-detection-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepulkitagarwal/sdpd-intruder-detection-server/issues"
+  },
+  "homepage": "https://github.com/thepulkitagarwal/sdpd-intruder-detection-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
